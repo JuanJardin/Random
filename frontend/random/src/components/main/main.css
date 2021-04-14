@@ -1,0 +1,13 @@
+.img{
+    width:100%;
+    position: relative;
+    opacity: 85%;
+    z-index: 1;
+}
+
+.boton-main{
+    position: relative;
+    z-index: 100;
+    margin-top: -30%;
+    margin-left: 40%;
+}
